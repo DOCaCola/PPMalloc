@@ -1,0 +1,1 @@
+Stack allocator implementation made available by EA at http://gpl.ea.com as part of the EAWebKit distribution.
